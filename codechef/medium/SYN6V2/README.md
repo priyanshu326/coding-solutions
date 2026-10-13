@@ -30,7 +30,7 @@ The formula for perimeter is 2 * (length + breadth)
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-13T18:45:51.778Z  
+**Submitted:** 2026-10-13T18:45:55.665Z  
 
 ```c_cpp
 #include <iostream>
