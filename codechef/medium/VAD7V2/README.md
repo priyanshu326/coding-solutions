@@ -36,7 +36,7 @@ Note how we are not using any quotes around  ***`true`**  *and  ***`false`***. A
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-18T18:54:08.427Z  
+**Submitted:** 2026-10-18T18:54:25.358Z  
 
 ```c_cpp
 #include <iostream>
