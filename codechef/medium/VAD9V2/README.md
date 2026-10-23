@@ -4,29 +4,47 @@
 
 ## Problem
 
-_Description not available._
+### Negative Numbers
+
+Listen
+
+In C++, when you divide an `int` by another `int`, you get only the `integer value` of the quotient and the fractional part gets truncated.
+
+- For example, 3 / 2 would be 1, and not 1.5.
+- The fractional part 0.5 gets truncated/discarded.
+### Task
+
+Write a program which does the following:
+
+- Display the sum, product, and quotient of 2 integers - $-50$ & $40$.
+- Initialise the following variables in your program and use them in the computation Variable a and assign it the value $-50$ Variable b and assign it the value $40$ Variables sum, product and quotient - assign the relevant values to them Note - sum, product and quotient need to be integers
+- Output sum, product and quotient to the console on separate lines
 
 ## Solution
 
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-18T18:56:04.256Z  
+**Submitted:** 2026-10-23T08:38:39.981Z  
 
 ```c_cpp
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int s = 14;
+
+    int a = -50;
+    int b = 40;
+    // Update your code below this line
     
-    // add variable area here
-    int area = s*s;
+    int  sum= a+b;
+    int  pro= a*b;
+    int  quo= a/b;
     
-    int cost = area * 7;
-    
-    cout << area << endl;
-    cout << "$" << cost;
+    cout << sum << endl;
+    cout << pro << endl;
+    cout << quo << endl;
+
 }
 ```
 
