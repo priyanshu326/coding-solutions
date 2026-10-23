@@ -1,14 +1,18 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int s = 14;
+
+    int a = -50;
+    int b = 40;
+    // Update your code below this line
     
-    // add variable area here
-    int area = s*s;
+    int  sum= a+b;
+    int  pro= a*b;
+    int  quo= a/b;
     
-    int cost = area * 7;
-    
-    cout << area << endl;
-    cout << "$" << cost;
+    cout << sum << endl;
+    cout << pro << endl;
+    cout << quo << endl;
+
 }
