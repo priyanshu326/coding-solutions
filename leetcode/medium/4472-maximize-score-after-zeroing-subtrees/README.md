@@ -85,9 +85,9 @@ No valid sequence of operations can produce a larger sum. Therefore, the answer 
 ## Solution
 
 **Language:** C++  
-**Runtime:** 182 ms (beats 26.02%)  
+**Runtime:** 174 ms (beats 45.04%)  
 **Memory:** 345.2 MB (beats 73.30%)  
-**Submitted:** 2026-11-15T18:39:17.699Z  
+**Submitted:** 2026-11-15T18:39:24.234Z  
 
 ```cpp
 
