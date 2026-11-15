@@ -64,9 +64,9 @@ The only subarray is `[0]`, whose bitwise AND and minimum value are both 0. Ther
 ## Solution
 
 **Language:** C++  
-**Runtime:** 5 ms (beats 16.93%)  
+**Runtime:** 3 ms (beats 44.25%)  
 **Memory:** 30 MB (beats 45.15%)  
-**Submitted:** 2026-11-15T18:31:10.983Z  
+**Submitted:** 2026-11-15T18:32:24.687Z  
 
 ```cpp
 class Solution {
